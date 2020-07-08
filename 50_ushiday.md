@@ -32,7 +32,7 @@ Marp = mdよりスライドを作成するプラグイン
 _backgroundColor: white
 -->
 ![bg right:60% height:50% contrast:1.0 brightness:1.0](./power/ibmi-logo.png)
-![bg right:60% height:50% contrast:1.2 brightness:1.0](power/csc-logo.jpg)
+![bg right:60% height:50% contrast:1.2 brightness:1.0](./power/csc-logo.jpg)
 
 # CSC は
 #### IBM i と
